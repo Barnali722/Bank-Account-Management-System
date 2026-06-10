@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=sender\ receiver\ amount
+comment1.target=void\ transfer(bank.model.Account,\ bank.model.Account,\ double)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Deposit
+comment1.params=account\ amount
+comment1.target=void\ deposit(bank.model.Account,\ double)
+numComments=2
